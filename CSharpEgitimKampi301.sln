@@ -13,11 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.Presen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.EFProject", "CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject.csproj", "{30DB6521-6033-4223-B020-0B0E7146BCA5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{97951E7D-1A22-45B8-8EAC-1FE73C61C5CF}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Pictures\Screenshots\istatistik-paneli.png = ..\..\..\Pictures\Screenshots\istatistik-paneli.png
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
